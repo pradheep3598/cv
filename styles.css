@@ -1,0 +1,25 @@
+body
+{
+    background-color: #EEF2FF;
+}
+h1{
+    color: #161853;
+}
+h3{
+    color: #161853;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width:6%;
+    border-color: grey;
+    border-width: 8px;
+    height: 0px;  
+}
+img{
+    background-color: #161853;
+    border-radius: 100%;
+}
+img:hover {
+    background-color : gold;
+}
